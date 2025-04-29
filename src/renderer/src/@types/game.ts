@@ -20,8 +20,16 @@ export interface Item {
     id: string;
     name: string;
     quantity: number;
+    price: number;
     color?: string;
     icon: string;
+    slot?: number; // Slot onde o item está posicionado no inventário
+}
+
+export interface InventorySlot {
+    id: string; // ID único do slot
+    index: number; // Índice do slot (0-31)
+    itemId: string | null; // ID do item no slot, ou null se vazio
 }
 
 export interface Ore {
@@ -54,6 +62,7 @@ export interface Level {
 export interface Game {
     player: Player;
     inventory: Item[];
+    inventorySlots: InventorySlot[]; // Array de slots de inventário
     ores: Ore[];
     woods: Wood[];
     levels: Level[];

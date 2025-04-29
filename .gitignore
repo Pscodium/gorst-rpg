@@ -130,3 +130,6 @@ dist
 .pnp.*
 
 data-examples
+build
+resources
+.vscode
