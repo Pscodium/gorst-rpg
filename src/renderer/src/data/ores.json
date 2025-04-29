@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "id": "5d3f8c97-34d5-4061-8c0b-1e3a85c575cc",
+            "inventoryItemId": "5045cd2d-cfc6-4e16-984a-aa56670e3bf3",
+            "name": "Minério de Cobre",
+            "level": 1,
+            "xp": 10,
+            "time": 3,
+            "color": "bg-amber-700"
+        },
+        {
+            "id": "247d33d4-d83c-46c1-a109-d78f6cb1dbcb",
+            "inventoryItemId": "1d85bf65-cc0f-46d3-8883-52dbfd362880",
+            "name": "Minério de Estanho",
+            "level": 1,
+            "xp": 12,
+            "time": 3.5,
+            "color": "bg-gray-400"
+        },
+        {
+            "id": "25697fdc-0584-4322-92aa-27f9404a31b7",
+            "inventoryItemId": "5b7f25e9-cbc9-4501-8112-ed04a3c5209e",
+            "name": "Minério de Ferro",
+            "level": 10,
+            "xp": 25,
+            "time": 5,
+            "color": "bg-red-700"
+        },
+        {
+            "id": "60abb6b0-f8c9-4d94-b4f3-e91d7b494ed1",
+            "inventoryItemId": "189531b1-b28c-4480-91b8-8d4af47ca13d",
+            "name": "Minério de Prata",
+            "level": 20,
+            "xp": 40,
+            "time": 6,
+            "color": "bg-gray-300"
+        },
+        {
+            "id": "1812312e-9ef1-4f10-a504-c9a431aeedd4",
+            "inventoryItemId": "4cb95f5e-b50e-458f-b3cf-e22a7594dbbf",
+            "name": "Minério de Ouro",
+            "level": 40,
+            "xp": 65,
+            "time": 8,
+            "color": "bg-yellow-500"
+        }
+    ]
+}

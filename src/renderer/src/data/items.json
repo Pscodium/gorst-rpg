@@ -1,0 +1,58 @@
+{
+    "data": [
+        {
+            "id": "5045cd2d-cfc6-4e16-984a-aa56670e3bf3",
+            "name": "Minério de Cobre",
+            "quantity": 0,
+            "icon": "https://pscodium-minio.0tftzn.easypanel.host/pscodium/Gorsk%20RPG/copper-1745712824516.png"
+        },
+        {
+            "id": "1d85bf65-cc0f-46d3-8883-52dbfd362880",
+            "name": "Minério de Estanho",
+            "quantity": 0,
+            "icon": "https://pscodium-minio.0tftzn.easypanel.host/pscodium/Gorsk%20RPG/tin-1745712816827.png"
+        },
+        { 
+            "id": "5b7f25e9-cbc9-4501-8112-ed04a3c5209e", 
+            "name": "Minério de Ferro", 
+            "quantity": 0, 
+            "icon": "https://pscodium-minio.0tftzn.easypanel.host/pscodium/Gorsk%20RPG/iron-1745712830979.png" 
+        },
+        {
+            "id": "189531b1-b28c-4480-91b8-8d4af47ca13d",
+            "name": "Minério de Prata",
+            "quantity": 0,
+            "icon": "https://pscodium-minio.0tftzn.easypanel.host/pscodium/Gorsk%20RPG/silver-1745712843471.png"
+        },
+        { 
+            "id": "4cb95f5e-b50e-458f-b3cf-e22a7594dbbf", 
+            "name": "Minério de Ouro", 
+            "quantity": 0, 
+            "icon": "https://pscodium-minio.0tftzn.easypanel.host/pscodium/Gorsk%20RPG/gold-1745712837490.png" 
+        },
+        {
+            "id": "aa007d64-563e-4325-8035-01d6b30a6635",
+            "name": "Tronco de Carvalho",
+            "quantity": 0,
+            "icon": "https://pscodium-minio.0tftzn.easypanel.host/pscodium/Game%20Assets/wood-1728570082834.png"
+        },
+        { 
+            "id": "8cd59aa2-289b-4c6f-b178-91ea854bdae9", 
+            "name": "Peixe", 
+            "quantity": 0, 
+            "icon": "https://pscodium-minio.0tftzn.easypanel.host/pscodium/Game%20Assets/fish-1728570663605.png" 
+        },
+        {
+            "id": "8d1684aa-7f4f-4368-9981-8a362a5aba8b",
+            "name": "Poção de Vida",
+            "quantity": 0,
+            "icon": "https://pscodium-minio.0tftzn.easypanel.host/pscodium/Game%20Assets/test_tube-1745708803997.png"
+        },
+        {
+            "id": "691843db-76cb-49f8-b5df-c84ac062091a",
+            "name": "Espada de Ferro",
+            "quantity": 0,
+            "icon": "https://pscodium-minio.0tftzn.easypanel.host/pscodium/Game%20Assets/dagger-1745708896294.png"
+        }
+    ]
+}

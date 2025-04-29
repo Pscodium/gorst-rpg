@@ -1,0 +1,604 @@
+{
+    "data": [
+      {
+        "level": 1,
+        "id": "novice_i",
+        "name": "Novice I",
+        "experience_to_reach": 0
+      },
+      {
+        "level": 2,
+        "id": "novice_ii",
+        "name": "Novice II",
+        "experience_to_reach": 150
+      },
+      {
+        "level": 3,
+        "id": "novice_iii",
+        "name": "Novice III",
+        "experience_to_reach": 350
+      },
+      {
+        "level": 4,
+        "id": "apprentice_i",
+        "name": "Apprentice I",
+        "experience_to_reach": 600
+      },
+      {
+        "level": 5,
+        "id": "apprentice_ii",
+        "name": "Apprentice II",
+        "experience_to_reach": 900
+      },
+      {
+        "level": 6,
+        "id": "apprentice_iii",
+        "name": "Apprentice III",
+        "experience_to_reach": 1250
+      },
+      {
+        "level": 7,
+        "id": "initiate_i",
+        "name": "Initiate I",
+        "experience_to_reach": 1650
+      },
+      {
+        "level": 8,
+        "id": "initiate_ii",
+        "name": "Initiate II",
+        "experience_to_reach": 2100
+      },
+      {
+        "level": 9,
+        "id": "initiate_iii",
+        "name": "Initiate III",
+        "experience_to_reach": 2600
+      },
+      {
+        "level": 10,
+        "id": "adept_i",
+        "name": "Adept I",
+        "experience_to_reach": 3150
+      },
+      {
+        "level": 11,
+        "id": "adept_ii",
+        "name": "Adept II",
+        "experience_to_reach": 3750
+      },
+      {
+        "level": 12,
+        "id": "adept_iii",
+        "name": "Adept III",
+        "experience_to_reach": 4400
+      },
+      {
+        "level": 13,
+        "id": "skilled_i",
+        "name": "Skilled I",
+        "experience_to_reach": 5100
+      },
+      {
+        "level": 14,
+        "id": "skilled_ii",
+        "name": "Skilled II",
+        "experience_to_reach": 5850
+      },
+      {
+        "level": 15,
+        "id": "skilled_iii",
+        "name": "Skilled III",
+        "experience_to_reach": 6650
+      },
+      {
+        "level": 16,
+        "id": "proficient_i",
+        "name": "Proficient I",
+        "experience_to_reach": 7500
+      },
+      {
+        "level": 17,
+        "id": "proficient_ii",
+        "name": "Proficient II",
+        "experience_to_reach": 8400
+      },
+      {
+        "level": 18,
+        "id": "proficient_iii",
+        "name": "Proficient III",
+        "experience_to_reach": 9350
+      },
+      {
+        "level": 19,
+        "id": "expert_i",
+        "name": "Expert I",
+        "experience_to_reach": 10350
+      },
+      {
+        "level": 20,
+        "id": "expert_ii",
+        "name": "Expert II",
+        "experience_to_reach": 11400
+      },
+      {
+        "level": 21,
+        "id": "expert_iii",
+        "name": "Expert III",
+        "experience_to_reach": 12500
+      },
+      {
+        "level": 22,
+        "id": "veteran_i",
+        "name": "Veteran I",
+        "experience_to_reach": 13650
+      },
+      {
+        "level": 23,
+        "id": "veteran_ii",
+        "name": "Veteran II",
+        "experience_to_reach": 14850
+      },
+      {
+        "level": 24,
+        "id": "veteran_iii",
+        "name": "Veteran III",
+        "experience_to_reach": 16100
+      },
+      {
+        "level": 25,
+        "id": "elite_i",
+        "name": "Elite I",
+        "experience_to_reach": 17400
+      },
+      {
+        "level": 26,
+        "id": "elite_ii",
+        "name": "Elite II",
+        "experience_to_reach": 18750
+      },
+      {
+        "level": 27,
+        "id": "elite_iii",
+        "name": "Elite III",
+        "experience_to_reach": 20150
+      },
+      {
+        "level": 28,
+        "id": "master_i",
+        "name": "Master I",
+        "experience_to_reach": 21600
+      },
+      {
+        "level": 29,
+        "id": "master_ii",
+        "name": "Master II",
+        "experience_to_reach": 23100
+      },
+      {
+        "level": 30,
+        "id": "master_iii",
+        "name": "Master III",
+        "experience_to_reach": 24650
+      },
+      {
+        "level": 31,
+        "id": "grand_i",
+        "name": "Grand I",
+        "experience_to_reach": 26250
+      },
+      {
+        "level": 32,
+        "id": "grand_ii",
+        "name": "Grand II",
+        "experience_to_reach": 27900
+      },
+      {
+        "level": 33,
+        "id": "grand_iii",
+        "name": "Grand III",
+        "experience_to_reach": 29600
+      },
+      {
+        "level": 34,
+        "id": "champion_i",
+        "name": "Champion I",
+        "experience_to_reach": 31350
+      },
+      {
+        "level": 35,
+        "id": "champion_ii",
+        "name": "Champion II",
+        "experience_to_reach": 33150
+      },
+      {
+        "level": 36,
+        "id": "champion_iii",
+        "name": "Champion III",
+        "experience_to_reach": 35000
+      },
+      {
+        "level": 37,
+        "id": "hero_i",
+        "name": "Hero I",
+        "experience_to_reach": 36900
+      },
+      {
+        "level": 38,
+        "id": "hero_ii",
+        "name": "Hero II",
+        "experience_to_reach": 38850
+      },
+      {
+        "level": 39,
+        "id": "hero_iii",
+        "name": "Hero III",
+        "experience_to_reach": 40850
+      },
+      {
+        "level": 40,
+        "id": "legend_i",
+        "name": "Legend I",
+        "experience_to_reach": 42900
+      },
+      {
+        "level": 41,
+        "id": "legend_ii",
+        "name": "Legend II",
+        "experience_to_reach": 45000
+      },
+      {
+        "level": 42,
+        "id": "legend_iii",
+        "name": "Legend III",
+        "experience_to_reach": 47150
+      },
+      {
+        "level": 43,
+        "id": "mythic_i",
+        "name": "Mythic I",
+        "experience_to_reach": 49350
+      },
+      {
+        "level": 44,
+        "id": "mythic_ii",
+        "name": "Mythic II",
+        "experience_to_reach": 51600
+      },
+      {
+        "level": 45,
+        "id": "mythic_iii",
+        "name": "Mythic III",
+        "experience_to_reach": 53900
+      },
+      {
+        "level": 46,
+        "id": "transcendent_i",
+        "name": "Transcendent I",
+        "experience_to_reach": 56250
+      },
+      {
+        "level": 47,
+        "id": "transcendent_ii",
+        "name": "Transcendent II",
+        "experience_to_reach": 58650
+      },
+      {
+        "level": 48,
+        "id": "transcendent_iii",
+        "name": "Transcendent III",
+        "experience_to_reach": 61100
+      },
+      {
+        "level": 49,
+        "id": "ascendant_i",
+        "name": "Ascendant I",
+        "experience_to_reach": 63600
+      },
+      {
+        "level": 50,
+        "id": "ascendant_ii",
+        "name": "Ascendant II",
+        "experience_to_reach": 66150
+      },
+      {
+        "level": 51,
+        "id": "ascendant_iii",
+        "name": "Ascendant III",
+        "experience_to_reach": 68750
+      },
+      {
+        "level": 52,
+        "id": "divine_i",
+        "name": "Divine I",
+        "experience_to_reach": 71400
+      },
+      {
+        "level": 53,
+        "id": "divine_ii",
+        "name": "Divine II",
+        "experience_to_reach": 74100
+      },
+      {
+        "level": 54,
+        "id": "divine_iii",
+        "name": "Divine III",
+        "experience_to_reach": 76850
+      },
+      {
+        "level": 55,
+        "id": "celestial_i",
+        "name": "Celestial I",
+        "experience_to_reach": 79650
+      },
+      {
+        "level": 56,
+        "id": "celestial_ii",
+        "name": "Celestial II",
+        "experience_to_reach": 82500
+      },
+      {
+        "level": 57,
+        "id": "celestial_iii",
+        "name": "Celestial III",
+        "experience_to_reach": 85400
+      },
+      {
+        "level": 58,
+        "id": "immortal_i",
+        "name": "Immortal I",
+        "experience_to_reach": 88350
+      },
+      {
+        "level": 59,
+        "id": "immortal_ii",
+        "name": "Immortal II",
+        "experience_to_reach": 91350
+      },
+      {
+        "level": 60,
+        "id": "immortal_iii",
+        "name": "Immortal III",
+        "experience_to_reach": 94400
+      },
+      {
+        "level": 61,
+        "id": "eternal_i",
+        "name": "Eternal I",
+        "experience_to_reach": 97500
+      },
+      {
+        "level": 62,
+        "id": "eternal_ii",
+        "name": "Eternal II",
+        "experience_to_reach": 100650
+      },
+      {
+        "level": 63,
+        "id": "eternal_iii",
+        "name": "Eternal III",
+        "experience_to_reach": 103850
+      },
+      {
+        "level": 64,
+        "id": "primordial_i",
+        "name": "Primordial I",
+        "experience_to_reach": 107100
+      },
+      {
+        "level": 65,
+        "id": "primordial_ii",
+        "name": "Primordial II",
+        "experience_to_reach": 110400
+      },
+      {
+        "level": 66,
+        "id": "primordial_iii",
+        "name": "Primordial III",
+        "experience_to_reach": 113750
+      },
+      {
+        "level": 67,
+        "id": "cosmic_i",
+        "name": "Cosmic I",
+        "experience_to_reach": 117150
+      },
+      {
+        "level": 68,
+        "id": "cosmic_ii",
+        "name": "Cosmic II",
+        "experience_to_reach": 120600
+      },
+      {
+        "level": 69,
+        "id": "cosmic_iii",
+        "name": "Cosmic III",
+        "experience_to_reach": 124100
+      },
+      {
+        "level": 70,
+        "id": "universal_i",
+        "name": "Universal I",
+        "experience_to_reach": 127650
+      },
+      {
+        "level": 71,
+        "id": "universal_ii",
+        "name": "Universal II",
+        "experience_to_reach": 131250
+      },
+      {
+        "level": 72,
+        "id": "universal_iii",
+        "name": "Universal III",
+        "experience_to_reach": 134900
+      },
+      {
+        "level": 73,
+        "id": "omnipotent_i",
+        "name": "Omnipotent I",
+        "experience_to_reach": 138600
+      },
+      {
+        "level": 74,
+        "id": "omnipotent_ii",
+        "name": "Omnipotent II",
+        "experience_to_reach": 142350
+      },
+      {
+        "level": 75,
+        "id": "omnipotent_iii",
+        "name": "Omnipotent III",
+        "experience_to_reach": 146150
+      },
+      {
+        "level": 76,
+        "id": "godlike_i",
+        "name": "Godlike I",
+        "experience_to_reach": 150000
+      },
+      {
+        "level": 77,
+        "id": "godlike_ii",
+        "name": "Godlike II",
+        "experience_to_reach": 153900
+      },
+      {
+        "level": 78,
+        "id": "godlike_iii",
+        "name": "Godlike III",
+        "experience_to_reach": 157850
+      },
+      {
+        "level": 79,
+        "id": "supreme_i",
+        "name": "Supreme I",
+        "experience_to_reach": 161850
+      },
+      {
+        "level": 80,
+        "id": "supreme_ii",
+        "name": "Supreme II",
+        "experience_to_reach": 165900
+      },
+      {
+        "level": 81,
+        "id": "supreme_iii",
+        "name": "Supreme III",
+        "experience_to_reach": 170000
+      },
+      {
+        "level": 82,
+        "id": "transcendental_i",
+        "name": "Transcendental I",
+        "experience_to_reach": 174150
+      },
+      {
+        "level": 83,
+        "id": "transcendental_ii",
+        "name": "Transcendental II",
+        "experience_to_reach": 178350
+      },
+      {
+        "level": 84,
+        "id": "transcendental_iii",
+        "name": "Transcendental III",
+        "experience_to_reach": 182600
+      },
+      {
+        "level": 85,
+        "id": "infinite_i",
+        "name": "Infinite I",
+        "experience_to_reach": 186900
+      },
+      {
+        "level": 86,
+        "id": "infinite_ii",
+        "name": "Infinite II",
+        "experience_to_reach": 191250
+      },
+      {
+        "level": 87,
+        "id": "infinite_iii",
+        "name": "Infinite III",
+        "experience_to_reach": 195650
+      },
+      {
+        "level": 88,
+        "id": "absolute_i",
+        "name": "Absolute I",
+        "experience_to_reach": 200100
+      },
+      {
+        "level": 89,
+        "id": "absolute_ii",
+        "name": "Absolute II",
+        "experience_to_reach": 204600
+      },
+      {
+        "level": 90,
+        "id": "absolute_iii",
+        "name": "Absolute III",
+        "experience_to_reach": 209150
+      },
+      {
+        "level": 91,
+        "id": "sovereign_i",
+        "name": "Sovereign I",
+        "experience_to_reach": 213750
+      },
+      {
+        "level": 92,
+        "id": "sovereign_ii",
+        "name": "Sovereign II",
+        "experience_to_reach": 218400
+      },
+      {
+        "level": 93,
+        "id": "sovereign_iii",
+        "name": "Sovereign III",
+        "experience_to_reach": 223100
+      },
+      {
+        "level": 94,
+        "id": "almighty_i",
+        "name": "Almighty I",
+        "experience_to_reach": 227850
+      },
+      {
+        "level": 95,
+        "id": "almighty_ii",
+        "name": "Almighty II",
+        "experience_to_reach": 232650
+      },
+      {
+        "level": 96,
+        "id": "almighty_iii",
+        "name": "Almighty III",
+        "experience_to_reach": 237500
+      },
+      {
+        "level": 97,
+        "id": "omega_i",
+        "name": "Omega I",
+        "experience_to_reach": 242400
+      },
+      {
+        "level": 98,
+        "id": "omega_ii",
+        "name": "Omega II",
+        "experience_to_reach": 247350
+      },
+      {
+        "level": 99,
+        "id": "omega_iii",
+        "name": "Omega III",
+        "experience_to_reach": 252350
+      },
+      {
+        "level": 100,
+        "id": "ultimate",
+        "name": "Ultimate",
+        "experience_to_reach": 257400
+      }
+    ]
+  }
